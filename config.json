@@ -4,7 +4,7 @@
  
 	"color": {
 		"gamma": 2.5,
-		"whitepoint": [0.8, 0.8, 0.8]
+		"whitepoint": [1, 1, 1]
 	},
  
 	"devices": [
@@ -91,7 +91,7 @@
 		
 		},
 		
-				{
+		{
 			"type": "fadecandy",
 			"serial": "VLCKFLNNLZWSQYJV",
 			"map": [
@@ -105,7 +105,7 @@
 		
 		},
 		
-				{
+		{
 			"type": "fadecandy",
 			"serial": "ASKLKSAGCSJICADR",
 			"map": [
@@ -119,7 +119,7 @@
 		
 		},
 		
-				{
+		{
 			"type": "fadecandy",
 			"serial": "PZHEZLJBQKLWOKZH",
 			"map": [
@@ -133,9 +133,9 @@
 		
 		},
 		
-						{
+		{
 			"type": "fadecandy",
-			"serial": "VTYWTZECPPOQCSBR",
+			"serial": "NPZGHBLDWGHKWQXB",
 			"map": [
 				[ 0,  3186, 128, 54 ],
 				[ 0,  3132, 192, 54 ],
@@ -145,11 +145,11 @@
 				[ 0,  2916, 448, 54 ]
 			]
 		
-		},
+		}, 
 		
-						{
+		{
 			"type": "fadecandy",
-			"serial": "NPZGHBLDWGHKWQXB",
+			"serial": "YWZJYORXLBYAMGJT",
 			"map": [
 				[ 0,  3510, 128, 54 ],
 				[ 0,  3456, 192, 54 ],
@@ -161,19 +161,64 @@
 		
 		},
 		
-						{
+		{
 			"type": "fadecandy",
-			"serial": "YWZJYORXLBYAMGJT",
+			"serial": "QSOBESSCEMDGWCRL",
 			"map": [
 				[ 0,  3834, 128, 54 ],
 				[ 0,  3780, 192, 54 ],
-				[ 0,  3762, 256, 54 ],
+				[ 0,  3726, 256, 54 ],
 				[ 0,  3672, 320, 54 ],
 				[ 0,  3618, 384, 54 ],
 				[ 0,  3564, 448, 54 ]
 			]
 		
+		},
+		
+		
+		{
+			"type": "fadecandy",
+			"serial": "AEIFQGFVOOJMUARB",
+			"map": [
+				[ 0,  4158, 128, 54 ],
+				[ 0,  4104, 192, 54 ],
+				[ 0,  4050, 256, 54 ],
+				[ 0,  3996, 320, 54 ],
+				[ 0,  3942, 384, 54 ],
+				[ 0,  3888, 448, 54 ]
+			]
+		
+		},
+		
+		{
+			"type": "fadecandy",
+			"serial": "BNRGLLGMGSDQMAHX",
+			"map": [
+				[ 0,  4482, 128, 54 ],
+				[ 0,  4428, 192, 54 ],
+				[ 0,  4374, 256, 54 ],
+				[ 0,  4320, 320, 54 ],
+				[ 0,  4266, 384, 54 ],
+				[ 0,  4212, 448, 54 ]
+			]
+		
 		}
+		
+		{
+			"type": "fadecandy",
+			"serial": "BNRGLLGMGSDQMAHX",
+			"map": [
+				[ 0,  4482, 128, 54 ],
+				[ 0,  4428, 192, 54 ],
+				[ 0,  4374, 256, 54 ],
+				[ 0,  4320, 320, 54 ],
+				[ 0,  4266, 384, 54 ],
+				[ 0,  4212, 448, 54 ]
+			]
+		
+		}
+		
+
 		
 	]
 }
